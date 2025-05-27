@@ -18,9 +18,10 @@ Este proyecto tiene como objetivo simplificar la búsqueda de alojamientos en di
 
 ## 👥 Integrantes del Equipo
 - **Agustín García** –  Coordinador. Manejo de Git, estructura de proyectos, desarrollo web.
-- **Miembro 2** –  [Rol / habilidades]
+- **Natalia Martorina** – Moderador/ Estructura de proyectos, buena comunicación, manejo de equipo. 
 - **Miembro 3** –  [Rol / habilidades]
 - **Miembro 4** –  [Rol / habilidades]
 - **Miembro 5** –  [Rol / habilidades]
 - **Miembro 6** –  [Rol / habilidades]
+
 
