@@ -17,8 +17,8 @@ Este proyecto tiene como objetivo simplificar la búsqueda de alojamientos en di
 - Público en general
 
 ## 👥 Integrantes del Equipo
-- **Agustín García** – [Rol / habilidades].
-- **Miembro 2** –  [Rol / habilidades]
+- **Agustín García** –  Coordinador. Manejo de Git, estructura de proyectos, desarrollo web.
+- **Cabrera Thomas** –  [Junior / manejo de JS, CSS, HTML, Angular]
 - **Miembro 3** –  [Rol / habilidades]
 - **Miembro 4** –  [Rol / habilidades]
 - **Miembro 5** –  [Rol / habilidades]
