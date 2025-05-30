@@ -22,5 +22,5 @@ Este proyecto tiene como objetivo simplificar la búsqueda de alojamientos en di
 - **Miembro 3** –  [Rol / habilidades]
 - **Miembro 4** –  [Rol / habilidades]
 - **Miembro 5** –  [Rol / habilidades]
-- **Miembro 6** –  [Rol / habilidades]
+- **Raul gonzalez** –  [Rol / habilidades]
 
